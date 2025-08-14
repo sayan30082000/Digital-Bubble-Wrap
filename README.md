@@ -20,8 +20,3 @@ A satisfying, interactive digital bubble wrap experience that you can pop endles
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional installations required
-
-### Running Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/digital-bubble-wrap.git
